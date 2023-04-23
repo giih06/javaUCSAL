@@ -21,5 +21,7 @@ public class dowhile {
             var++;
             System.out.println(var + " ");
         } while (var < 50);
+
+        /*do while =  repita enquanto for verdadeiro */
     }
 }
