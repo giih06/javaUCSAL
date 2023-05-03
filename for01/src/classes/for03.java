@@ -1,3 +1,4 @@
+package classes;
 public class for03 {
     public static void main(String[] args) throws Exception {
         int qt = 10, ct = 0, ti = 2, rz = 3;

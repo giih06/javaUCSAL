@@ -1,3 +1,4 @@
+package classes;
 public class for01 {
     public static void main(String[] args) throws Exception {
         // cria variavel x, testa se x < 5 e se SIM, executa x++;

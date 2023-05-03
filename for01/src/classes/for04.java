@@ -1,3 +1,4 @@
+package classes;
 public class for04 {
     public static void main(String[] args) throws Exception {
         //Criação das constantes usadas a solução
