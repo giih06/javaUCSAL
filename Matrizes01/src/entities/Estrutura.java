@@ -21,4 +21,16 @@ public class Estrutura {
         }
         return valores;
     }
+
+    public static int[][] valores3(int qlinhas, int qcolunas) {
+        int[][] valores = new int[qlinhas][qcolunas];
+        for(int i=0,valor = 1; i<valores.length; i++) {
+            for(int j=0; j<valores[i].length; j++, valor++) {
+                if(valor % 4 == 0){
+                    valores[i][j] = valor;
+                }
+            }
+        }
+        return valores;
+    }
 }
