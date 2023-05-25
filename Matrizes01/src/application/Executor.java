@@ -14,7 +14,8 @@ public class Executor {
         /* Crie um método para retornar uma array bidimensional do tipo int
         com valores ímapares. O tamanho do array deve vir no parâmetro do método */
         temp = Estrutura.valores2(9, 9);
-        Imprimir.imp(temp);
+        Imprimir.imp(args);
+        (temp);
         System.out.println("------------------");
 
         /* Construa um método que retorne uma array bidimensional
